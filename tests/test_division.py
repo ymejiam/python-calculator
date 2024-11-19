@@ -1,4 +1,4 @@
-from pythoncalculator import division
+from pythoncalculator import divide
 
 
 def test_divide():
